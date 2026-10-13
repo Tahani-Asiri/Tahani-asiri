@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Tahani 👋
 
-<!--
-**Tahani-Asiri/Tahani-asiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I’m currently learning Git and GitHub step by step.
+This profile is part of my first week practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I have completed
+- Created a GitHub account
+- Installed Git
+- Connected GitHub with VS Code
+- Created my personal GitHub repository
+- Started working on README.md
